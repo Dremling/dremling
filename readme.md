@@ -14,8 +14,9 @@
 | Babylon |  10% |    [Delegate](#) | [Pull request](https://github.com/babylonchain/networks/pull/135) |
 | Artela  |  10% |    [Delegate](#) | |
 | Particle |  Under Development   |   |
+| Cysic |  Under Development   |   |
 | Initia  | 5% |    [Delegate](#) | [Validator Node](https://medium.com/@Dremling/install-initia-node-afc62b1559ba) |
-
+| Fleek |  Under Development   |   |
 # Contacts
 
 armitafejri@gmail.com | [Gitbook](https://dremlin-1.gitbook.io/dremlin) | [Twitter](https://x.com/Dremllin) | [Discord](https://discord.com/users/981574932460867674) | [Medium](https://medium.com/@Dremling)  | [Keybase](https://keybase.io/dremin)
