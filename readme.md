@@ -17,7 +17,7 @@
 | Cysic |  Under Development   |   |
 | Initia  | 5% |    [Delegate](#) | [Validator Node](https://medium.com/@Dremling/install-initia-node-afc62b1559ba) |
 | Fleek |  Under Development   |   |
-| Agoric |  Under Development   |   |
+| Agoric |  Under Development   |   | [Node guide](https://medium.com/@Dremling/agoric-node-setup-guide-by-dreamling-cf29ac0d27d8)  |
 # Contacts
 
 armitafejri@gmail.com | [Gitbook](https://dremlin-1.gitbook.io/dremlin) | [Twitter](https://x.com/Dremllin) | [Medium](https://medium.com/@Dremling)  | [Keybase](https://keybase.io/dremin)
